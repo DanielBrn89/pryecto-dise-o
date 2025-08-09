@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <Row>
           <Col md={6} className="mb-3 mb-md-0">
-            <h5>MiLogo</h5>
+            <h5>Jose</h5>
             <p className="mb-0">© 2025 Todos los derechos reservados</p>
           </Col>
           <Col md={6} className="text-md-end">
